@@ -1,4 +1,4 @@
-### :music:网易云歌单提取脚本
+### :headphones:网易云歌单提取脚本
 项目结构：
 - MusicList.ui
 </br>PYQT设计工具生成的文件
@@ -25,7 +25,7 @@
 - 粤语歌手排名</br>
 ![粤语歌手](https://github.com/Hopetree/MyTools/blob/master/Music163List/docs/singer.png)
 - 粤语歌曲排名</br>
-![粤语歌曲](https://github.com/Hopetree/MyTools/blob/master/Music163List/docs/song.png)
+![粤语歌曲](https://github.com/Hopetree/MyTools/blob/master/Music163List/docs/songs.png)
 
 
 
