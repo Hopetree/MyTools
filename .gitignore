@@ -3,3 +3,5 @@ __pycache__/
 /ScreenShot/pics
 /ScreenShot/urls.txt
 /Music163List/*.csv
+*.exe
+*.zip
