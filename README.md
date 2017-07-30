@@ -13,3 +13,7 @@
 `requests`
 `BeautifulSoup`
 
+3、[**huanmusic**](https://github.com/Hopetree/MyTools/tree/master/huanmusic)
+- 项目简介：幻音网爬虫，提取每日歌单
+- 支持库：
+`requests`
