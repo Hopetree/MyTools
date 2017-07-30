@@ -2,3 +2,4 @@ __pycache__/
 *.log
 /ScreenShot/pics
 /ScreenShot/urls.txt
+/Music163List/*.csv
