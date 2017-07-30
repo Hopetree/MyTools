@@ -12,20 +12,20 @@
 </br>QSS风格文件
 项目界面：
 - 首先选择歌单风格和需要提取的页码数</br>
-![主界面](https://github.com/Hopetree/TMTools/blob/master/doc/001.gif)
+![主界面](https://github.com/Hopetree/MyTools/blob/master/Music163List/docs/001.png)
 - 运行界面</br>
-![运行界面](https://github.com/Hopetree/TMTools/blob/master/doc/001.gif)
+![运行界面](https://github.com/Hopetree/MyTools/blob/master/Music163List/docs/002.png)
 歌单结果：
 - 表格内容</br>
-![表格内容](https://github.com/Hopetree/TMTools/blob/master/doc/001.gif)
+![表格内容](https://github.com/Hopetree/MyTools/blob/master/Music163List/docs/003.png)
 - 古风歌手排名</br>
-![古风歌手](https://github.com/Hopetree/TMTools/blob/master/doc/001.gif)
+![古风歌手](https://github.com/Hopetree/MyTools/blob/master/Music163List/docs/gfsinger.png)
 - 古风歌曲排名</br>
-![古风歌曲](https://github.com/Hopetree/TMTools/blob/master/doc/001.gif)
+![古风歌曲](https://github.com/Hopetree/MyTools/blob/master/Music163List/docs/gfsong.png)
 - 粤语歌手排名</br>
-![粤语歌手](https://github.com/Hopetree/TMTools/blob/master/doc/001.gif)
+![粤语歌手](https://github.com/Hopetree/MyTools/blob/master/Music163List/docs/singer.png)
 - 粤语歌曲排名</br>
-![粤语歌曲](https://github.com/Hopetree/TMTools/blob/master/doc/001.gif)
+![粤语歌曲](https://github.com/Hopetree/MyTools/blob/master/Music163List/docs/song.png)
 
 
 
