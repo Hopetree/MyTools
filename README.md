@@ -12,3 +12,4 @@
 `PyQt5`
 `requests`
 `BeautifulSoup`
+
