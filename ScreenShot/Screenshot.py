@@ -4,14 +4,9 @@ from selenium import webdriver
 import time
 import os.path
 import multiprocessing as mp
+from numpy import array_split
 
-def foo(lis,n):
-    '''一个用来拆分列表的函数，用来把链接分给各个进程'''
-    long = len(lis)
-    a = long//n
-    new = [lis[i*a:(i+1)*a] for i in range(n-1)]
-    new.append(lis[a*(n-1):])
-    return new
+
 
 def readtxt():
     '''读取txt文件，返回一个列表，每个元素都是一个元组;文件的格式是图片保存的名称加英文逗号加网页地址'''
@@ -79,7 +74,8 @@ if __name__ == '__main__':
     # 大于CPU核数用最大进程
     else:
         print("链接数量为{},大于CPU核数{}，使用{}进程...".format(long,cup_num,cup_num))
-        biglist = foo(urls,cup_num)
+        # 将列表拆分，分给每个进程
+        biglist = array_split(urls,cup_num)
         pool = mp.Pool(cup_num)
         for i in range(cup_num):
             pool.apply_async(webshot,args=(biglist[i],))
