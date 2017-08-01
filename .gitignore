@@ -4,4 +4,4 @@ __pycache__/
 /ScreenShot/urls.txt
 /Music163List/*.csv
 *.exe
-*.zip
+/Music163List/*.csv
