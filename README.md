@@ -5,6 +5,8 @@
 `selenium`
 `os.path`
 `multiprocessing`
+- 截图效果：</br>
+![](https://github.com/Hopetree/MyTools/blob/master/ScreenShot/001.png)
 
 2、[**Music163List**](https://github.com/Hopetree/MyTools/tree/master/Music163List)
 - 项目简介：网易云歌单提取脚本（PYQT5界面版）
@@ -12,6 +14,8 @@
 `PyQt5`
 `requests`
 `BeautifulSoup`
+- 界面效果：</br>
+![](https://github.com/Hopetree/MyTools/blob/master/Music163List/docs/001.png)
 
 3、[**huanmusic**](https://github.com/Hopetree/MyTools/tree/master/huanmusic)
 - 项目简介：幻音网爬虫，提取每日歌单
