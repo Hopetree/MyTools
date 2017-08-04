@@ -12,19 +12,20 @@
 **软件界面**
 </br>
 整体界面介绍：</br>
-![界面介绍]()
+![界面介绍](https://github.com/Hopetree/MyTools/blob/master/PICdown/docs/001.png)
 </br>配置之后的界面：
 </br>
-![配置之后]()
+![配置之后](https://github.com/Hopetree/MyTools/blob/master/PICdown/docs/002.png)
 </br>
 
 **实际操作**
 </br>
 启用配置，爬取网站图片</br>
-![]()
+![](https://github.com/Hopetree/MyTools/blob/master/PICdown/docs/down.gif)
 </br>
 修改和添加新配置
 </br>
-![]()
+![](https://github.com/Hopetree/MyTools/blob/master/PICdown/docs/config.gif)
 
-**软件exe文件下载：**
+**软件exe文件下载**
+</br>链接：http://pan.baidu.com/s/1gfb302n 密码：lz8t
