@@ -30,4 +30,4 @@
 `BeautifulSoup`
 `pickle`
 - 操作效果：</br>
-![](https://github.com/Hopetree/MyTools/blob/master/PICdown/docs/down.gif)
+![](https://github.com/Hopetree/MyTools/blob/master/PICdown/docs/001.png)
