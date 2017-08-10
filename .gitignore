@@ -6,3 +6,5 @@ __pycache__/
 *.exe
 /Music163List/*.csv
 /PICdown/IMGs/
+/Excel-Split/*.xlsx
+/Excel-Split/*.txt
