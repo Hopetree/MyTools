@@ -22,7 +22,7 @@
 - 支持库：
 `requests`
 
-4、[**PICdown**]()
+4、[**PICdown**](https://github.com/Hopetree/MyTools/tree/master/PICdown)
 - 项目简介：一个可以保存设置的多网站图片下载器
 - 支持库：
 `PyQt5`
@@ -31,3 +31,10 @@
 `pickle`
 - 操作效果：</br>
 ![](https://github.com/Hopetree/MyTools/blob/master/PICdown/docs/001.png)
+
+5、[**Excel-Split**](https://github.com/Hopetree/MyTools/tree/master/Excel-Split)
+- 项目简介：一个多线程用来分割Excel表格的工具
+- 支持库：
+`xlsxwriter`
+`threading`
+- 这个工具很单一，因为是有个工作需要用到，所以临时写的，不过还是有拓展来进行更多的功能
