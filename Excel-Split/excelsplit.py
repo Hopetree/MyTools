@@ -4,12 +4,6 @@ import xlsxwriter
 import threading
 import os.path
 
-def title():
-    print('使用方法'.center(60))
-    print(' '*10+'1、将所有ID复制到txt文件中')
-    print(' '*10+'2、输入文件名称，然后输入每个表格需要分配的ID数目')
-    print(' '*37+'The author: Alex')
-
 def readtxt(txtname):
     '''读取txt文件，生成一个ID列表'''
     while True:
@@ -45,7 +39,6 @@ def run(txtname,n):
         t.join()
 
 if __name__ == '__main__':
-    title()
     filename = input('请输入文件名称（含后缀）：')
     n = input('请输入每个表格需要分配的ID个数：')
     run(filename,int(n))
