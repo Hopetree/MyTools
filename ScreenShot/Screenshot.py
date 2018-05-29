@@ -32,11 +32,7 @@ def webshot(tup):
     driver = webdriver.PhantomJS()
     driver.maximize_window()
     # 返回网页的高度的js代码
-    js_height = '''function test()
-        {
-        return document.body.clientHeight;
-        }
-        return test()'''
+    js_height = "return document.body.clientHeight"
     picname = str(tup[0])
     link = tup[1]
     try:
@@ -67,6 +63,7 @@ if __name__ == '__main__':
     pool.close()
     pool.join()
     print("操作结束，耗时：{:.2f}秒".format(float(time.time()-t)))
+
 
 
 
